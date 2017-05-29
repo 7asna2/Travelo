@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Travelo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_place">AddPlaceActivity</string>
+
+
+    <string name="Button_entertainment" translatable="true">Entertainments</string>
+    <string name="Button_restaurants" translatable="true">Restaurants and cafes</string>
+    <string name="Button_Hotels" translatable="true">Hotels and Lodging</string>
+    <string name="title_activity_details">Details</string>
+
+    <string name="action_share">Share</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="title_activity_search">SearchActivity</string>
+
+</resources>
